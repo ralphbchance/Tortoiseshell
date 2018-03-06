@@ -188,6 +188,17 @@ h1 {
 .service img.paper-icon {
   width: 3.5rem;
 }
+/*
+ .ruler-icon {
+  margin: 1.8rem;
+}
+
+.truck-icon {
+ margin:1.4rem;
+}
+*/
+
+
 
 @media only screen and (max-width: 560px) {
   .service {
